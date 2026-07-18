@@ -1,0 +1,9 @@
+# Jenkins
+jenkins_home/
+
+# Logs
+*.log
+
+# OS files
+.DS_Store
+Thumbs.db
